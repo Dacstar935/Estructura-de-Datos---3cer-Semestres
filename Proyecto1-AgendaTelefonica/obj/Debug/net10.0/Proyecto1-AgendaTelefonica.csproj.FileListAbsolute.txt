@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\bin\Debug\net10.0\Proyecto1-AgendaTelefonica.exe
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\bin\Debug\net10.0\Proyecto1-AgendaTelefonica.deps.json
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\bin\Debug\net10.0\Proyecto1-AgendaTelefonica.runtimeconfig.json
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\bin\Debug\net10.0\Proyecto1-AgendaTelefonica.dll
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\bin\Debug\net10.0\Proyecto1-AgendaTelefonica.pdb
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\obj\Debug\net10.0\Proyecto1-AgendaTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\obj\Debug\net10.0\Proyecto1-AgendaTelefonica.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\obj\Debug\net10.0\Proyecto1-AgendaTelefonica.AssemblyInfo.cs
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\obj\Debug\net10.0\Proyecto1-AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\obj\Debug\net10.0\Proyecto1-AgendaTelefonica.sourcelink.json
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\obj\Debug\net10.0\Proyecto1-AgendaTelefonica.dll
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\obj\Debug\net10.0\refint\Proyecto1-AgendaTelefonica.dll
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\obj\Debug\net10.0\Proyecto1-AgendaTelefonica.pdb
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\obj\Debug\net10.0\Proyecto1-AgendaTelefonica.genruntimeconfig.cache
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto1-AgendaTelefonica\obj\Debug\net10.0\ref\Proyecto1-AgendaTelefonica.dll
