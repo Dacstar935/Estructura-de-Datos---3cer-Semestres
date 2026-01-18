@@ -12,3 +12,4 @@ C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Estudiantes_Semana3-A
 C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Estudiantes_Semana3-Arrays\obj\Debug\net10.0\ConsoleApp1.pdb
 C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Estudiantes_Semana3-Arrays\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Estudiantes_Semana3-Arrays\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Estudiantes_Semana3-Arrays\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
