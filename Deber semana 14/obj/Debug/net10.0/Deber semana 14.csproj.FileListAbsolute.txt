@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\bin\Debug\net10.0\Deber semana 14.exe
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\bin\Debug\net10.0\Deber semana 14.deps.json
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\bin\Debug\net10.0\Deber semana 14.runtimeconfig.json
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\bin\Debug\net10.0\Deber semana 14.dll
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\bin\Debug\net10.0\Deber semana 14.pdb
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\obj\Debug\net10.0\Deber semana 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\obj\Debug\net10.0\Deber semana 14.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\obj\Debug\net10.0\Deber semana 14.AssemblyInfo.cs
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\obj\Debug\net10.0\Deber semana 14.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\obj\Debug\net10.0\Deber semana 14.sourcelink.json
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\obj\Debug\net10.0\Deber semana 14.dll
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\obj\Debug\net10.0\refint\Deber semana 14.dll
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\obj\Debug\net10.0\Deber semana 14.pdb
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\obj\Debug\net10.0\Deber semana 14.genruntimeconfig.cache
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Deber semana 14\obj\Debug\net10.0\ref\Deber semana 14.dll
