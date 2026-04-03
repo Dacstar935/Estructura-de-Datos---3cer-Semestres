@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\obj\Debug\net10.0\Proyecto 04 - Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\obj\Debug\net10.0\Proyecto 04 - Final.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\obj\Debug\net10.0\Proyecto 04 - Final.AssemblyInfo.cs
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\obj\Debug\net10.0\Proyecto 04 - Final.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\obj\Debug\net10.0\Proyecto 04 - Final.sourcelink.json
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\bin\Debug\net10.0\Proyecto 04 - Final.exe
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\bin\Debug\net10.0\Proyecto 04 - Final.deps.json
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\bin\Debug\net10.0\Proyecto 04 - Final.runtimeconfig.json
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\bin\Debug\net10.0\Proyecto 04 - Final.dll
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\bin\Debug\net10.0\Proyecto 04 - Final.pdb
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\obj\Debug\net10.0\Proyecto 04 - Final.dll
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\obj\Debug\net10.0\refint\Proyecto 04 - Final.dll
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\obj\Debug\net10.0\Proyecto 04 - Final.pdb
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\obj\Debug\net10.0\Proyecto 04 - Final.genruntimeconfig.cache
+C:\Users\PC\Documents\Estructura-de-Datos---3cer-Semestres\Proyecto 04 - Final\obj\Debug\net10.0\ref\Proyecto 04 - Final.dll
